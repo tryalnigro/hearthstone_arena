@@ -1,0 +1,1628 @@
+Bucket,Class,Card,Rarity
+1,Druid,Swipe,Basic
+1,Druid,Ultimate Infestation,Epic
+1,Hunter,Houndmaster,Basic
+1,Hunter,Animal Companion,Basic
+1,Hunter,Kill Command,Basic
+1,Hunter,Flanking Strike,Common
+1,Hunter,Crackling Razormaw,Common
+1,Hunter,Jeweled Macaw,Common
+1,Hunter,Venomizer,Common
+1,Hunter,Lesser Emerald Spellstone,Rare
+1,Hunter,Savannah Highmane,Rare
+1,Hunter,Eaglehorn Bow,Rare
+1,Hunter,Crushing Walls,Epic
+1,Mage,Flamestrike,Basic
+1,Mage,Fireball,Basic
+1,Mage,Polymorph,Basic
+1,Mage,Meteor,Epic
+1,Mage,Unexpected Results,Epic
+1.5,Mage,Unexpected Results,Epic
+1,Mage,Primordial Glyph,Epic
+1,Paladin,Consecration,Basic
+1,Paladin,Truesilver Champion,Basic
+1,Paladin,Blessing of Kings,Basic
+1,Paladin,Spikeridged Steed,Rare
+1,Paladin,Vinecleaver,Epic
+1,Paladin,Dinosize,Epic
+1,Priest,Mind Control,Basic
+1,Priest,Shadow Word: Death,Basic
+1,Priest,Duskbreaker,Rare
+1,Priest,Free From Amber,Rare
+1,Priest,Psychic Scream,Epic
+1,Priest,Obsidian Statue,Epic
+1,Rogue,Sap,Basic
+1,Rogue,Eviscerate,Common
+1,Rogue,SI:7 Agent,Rare
+1,Rogue,Vilespine Slayer,Epic
+1,Rogue,Fal'dorei Strider,Epic
+1,Shaman,Fire Elemental,Basic
+1,Shaman,Flametongue Totem,Basic
+1,Shaman,Volcano,Rare
+1,Shaman,Unstable Evolution,Epic
+1,Shaman,Earth Elemental,Epic
+1,Warlock,Despicable Dreadlord,Rare
+1,Warlock,Siphon Soul,Rare
+1,Warlock,Voidlord,Rare
+1,Warrior,Blood Razor,Common
+1,Warrior,Militia Commander,Rare
+1,Warrior,Frothing Berserker,Rare
+1,Warrior,Lesser Mithril Spellstone,Rare
+1,Warrior,Gorehowl,Epic
+1,Warrior,Supercollider,Epic
+1,Neutral,Bonemare,Common
+1,Neutral,Cobalt Scalebane,Common
+1,Neutral,Arcane Dynamo,Rare
+1,Neutral,Primordial Drake,Epic
+1.5,Druid,Ancient of War,Epic
+1.5,Hunter,Houndmaster,Basic
+1.5,Hunter,Animal Companion,Basic
+1.5,Hunter,Kill Command,Basic
+1.5,Hunter,Crackling Razormaw,Common
+1.5,Hunter,Jeweled Macaw,Common
+1.5,Hunter,Venomizer,Common
+1.5,Hunter,Venomstrike Trap,Common
+1.5,Hunter,Candleshot,Common
+1.5,Hunter,Freezing Trap,Common
+1.5,Hunter,Unleash the Hounds,Common
+1.5,Hunter,Lesser Emerald Spellstone,Rare
+1.5,Hunter,Savannah Highmane,Rare
+1.5,Hunter,Eaglehorn Bow,Rare
+1.5,Hunter,Crushing Walls,Epic
+1.5,Mage,Water Elemental,Basic
+1.5,Mage,Frostbolt,Basic
+1.5,Mage,Arcanologist,Common
+1.5,Mage,Mana Wyrm,Common
+1.5,Mage,Blizzard,Rare
+1.5,Mage,Primordial Glyph,Epic
+1.5,Mage,Pyroblast,Epic
+1.5,Paladin,Lost in the Jungle,Common
+1.5,Paladin,Righteous Protector,Common
+1.5,Paladin,Argent Protector,Common
+1.5,Paladin,Hydrologist,Common
+1.5,Paladin,Unidentified Maul,Common
+1.5,Paladin,Aldor Peacekeeper,Rare
+1.5,Paladin,Crystal Lion,Rare
+1.5,Paladin,Call to Arms,Epic
+1.5,Priest,Shadow Word: Death,Basic
+1.5,Priest,Holy Nova,Basic
+1.5,Priest,Northshire Cleric,Basic
+1.5,Priest,Shadow Ascendant,Common
+1.5,Priest,Free From Amber,Rare
+1.5,Priest,Obsidian Statue,Epic
+1.5,Priest,Cabal Shadow Priest,Epic
+1.5,Rogue,Backstab,Basic
+1.5,Rogue,Assassinate,Basic
+1.5,Rogue,Defias Ringleader,Common
+1.5,Rogue,Blink Fox,Common
+1.5,Rogue,Cheap Shot,Common
+1.5,Rogue,Envenom Weapon,Rare
+1.5,Rogue,Kidnapper,Epic
+1.5,Shaman,Hex,Basic
+1.5,Shaman,Volcano,Rare
+1.5,Shaman,Unstable Evolution,Epic
+1.5,Shaman,Earth Elemental,Epic
+1.5,Warlock,Kobold Librarian,Common
+1.5,Warlock,Siphon Soul,Rare
+1.5,Warlock,Voidlord,Rare
+1.5,Warrior,Fiery War Axe,Basic
+1.5,Warrior,Arathi Weaponsmith,Common
+1.5,Warrior,Lesser Mithril Spellstone,Rare
+1.5,Warrior,Gorehowl,Epic
+1.5,Warrior,Supercollider,Epic
+1.5,Neutral,Bonemare,Common
+1.5,Neutral,Cobalt Scalebane,Common
+1.5,Neutral,Fire Plume Phoenix,Common
+1.5,Neutral,Stoneskin Basilisk,Common
+1.5,Neutral,Arcane Dynamo,Rare
+1.5,Neutral,Primordial Drake,Epic
+2,Druid,Tortollan Forager,Common
+2,Druid,Power of the Wild,Common
+2,Druid,Druid of the Claw,Common
+2,Druid,Crypt Lord,Common
+2,Druid,Druid of the Scythe,Common
+2,Druid,Landscaping,Common
+2,Druid,Spreading Plague,Rare
+2,Druid,Tending Tauren,Rare
+2,Druid,Ancient of War,Epic
+2,Hunter,Venomstrike Trap,Common
+2,Hunter,Candleshot,Common
+2,Hunter,Freezing Trap,Common
+2,Hunter,Unleash the Hounds,Common
+2,Hunter,Deadly Shot,Common
+2,Hunter,Hunting Mastiff,Common
+2,Hunter,Explosive Shot,Rare
+2,Hunter,Wing Blast,Rare
+2,Hunter,Snake Trap,Epic
+2,Mage,Water Elemental,Basic
+2,Mage,Frostbolt,Basic
+2,Mage,Arcanologist,Common
+2,Mage,Mana Wyrm,Common
+2,Mage,Blizzard,Rare
+2,Mage,Pyroblast,Epic
+2,Paladin,Lost in the Jungle,Common
+2,Paladin,Righteous Protector,Common
+2,Paladin,Argent Protector,Common
+2,Paladin,Hydrologist,Common
+2,Paladin,Unidentified Maul,Common
+2,Paladin,Aldor Peacekeeper,Rare
+2,Paladin,Crystal Lion,Rare
+2,Paladin,Silver Sword,Rare
+2,Paladin,Call to Arms,Epic
+2,Priest,Holy Nova,Basic
+2,Priest,Northshire Cleric,Basic
+2,Priest,Shadow Ascendant,Common
+2,Priest,Nightscale Matriarch,Rare
+2,Priest,Cabal Shadow Priest,Epic
+2,Rogue,Backstab,Basic
+2,Rogue,Assassinate,Basic
+2,Rogue,Defias Ringleader,Common
+2,Rogue,Blink Fox,Common
+2,Rogue,Cheap Shot,Common
+2,Rogue,Envenom Weapon,Rare
+2,Rogue,Kidnapper,Epic
+2,Shaman,Hex,Basic
+2,Shaman,Menacing Nimbus,Common
+2,Shaman,Lightning Storm,Rare
+2,Shaman,Voltaic Burst,Rare
+2,Warlock,Dread Infernal,Basic
+2,Warlock,Hellfire,Basic
+2,Warlock,Kobold Librarian,Common
+2,Warlock,Vulgar Homunculus,Common
+2,Warlock,Flame Imp,Common
+2,Warlock,Twisting Nether,Common
+2,Warlock,Defile,Rare
+2,Warlock,Lesser Amethyst Spellstone,Rare
+2,Warlock,Hooked Reaver,Rare
+2,Warlock,Bane of Doom,Epic
+2,Warrior,Fiery War Axe,Basic
+2,Warrior,Arathi Weaponsmith,Common
+2,Warrior,Kor'kron Elite,Common
+2,Warrior,Gemstudded Golem,Common
+2,Warrior,Dyn-o-matic,Rare
+2,Warrior,Brawl,Epic
+2,Neutral,Fire Plume Phoenix,Common
+2,Neutral,Stoneskin Basilisk,Common
+2,Neutral,Stonehill Defender,Rare
+2,Neutral,Missile Launcher,Rare
+2,Neutral,Worgen Abomination,Epic
+2.5,Druid,Tortollan Forager,Common
+2.5,Druid,Power of the Wild,Common
+2.5,Druid,Druid of the Claw,Common
+2.5,Druid,Crypt Lord,Common
+2.5,Druid,Druid of the Scythe,Common
+2.5,Druid,Landscaping,Common
+2.5,Druid,Spreading Plague,Rare
+2.5,Druid,Tending Tauren,Rare
+2.5,Hunter,Deadly Shot,Common
+2.5,Hunter,Hunting Mastiff,Common
+2.5,Hunter,Explosive Shot,Rare
+2.5,Hunter,Wing Blast,Rare
+2.5,Hunter,Snake Trap,Epic
+2.5,Mage,Flame Geyser,Common
+2.5,Mage,Raven Familiar,Common
+2.5,Mage,Sorcerer's Apprentice,Common
+2.5,Mage,Shimmering Tempest,Common
+2.5,Mage,Steam Surger,Rare
+2.5,Mage,Kirin Tor Mage,Rare
+2.5,Mage,Leyline Manipulator,Rare
+2.5,Mage,Arcane Keysmith,Epic
+2.5,Paladin,Ghostly Charger,Common
+2.5,Paladin,Silver Sword,Rare
+2.5,Priest,Power Word: Shield,Basic
+2.5,Priest,Shadow Word: Pain,Basic
+2.5,Priest,Radiant Elemental,Common
+2.5,Priest,Temple Enforcer,Common
+2.5,Priest,Tortollan Shellraiser,Common
+2.5,Priest,Nightscale Matriarch,Rare
+2.5,Priest,Crystalline Oracle,Rare
+2.5,Priest,Auchenai Soulpriest,Rare
+2.5,Priest,Shadow Madness,Rare
+2.5,Priest,Curious Glimmerroot,Epic
+2.5,Priest,Twilight Acolyte,Epic
+2.5,Rogue,Razorpetal Lasher,Common
+2.5,Rogue,Cavern Shinyfinder,Common
+2.5,Rogue,Plague Scientist,Common
+2.5,Rogue,Shadowblade,Rare
+2.5,Shaman,Menacing Nimbus,Common
+2.5,Shaman,Crushing Hand,Common
+2.5,Shaman,Lightning Storm,Rare
+2.5,Shaman,Voltaic Burst,Rare
+2.5,Shaman,Primalfin Totem,Rare
+2.5,Warlock,Dread Infernal,Basic
+2.5,Warlock,Hellfire,Basic
+2.5,Warlock,Vulgar Homunculus,Common
+2.5,Warlock,Flame Imp,Common
+2.5,Warlock,Twisting Nether,Common
+2.5,Warlock,Defile,Rare
+2.5,Warlock,Lesser Amethyst Spellstone,Rare
+2.5,Warlock,Hooked Reaver,Rare
+2.5,Warlock,Bane of Doom,Epic
+2.5,Warrior,Arcanite Reaper,Basic
+2.5,Warrior,Execute,Basic
+2.5,Warrior,Kor'kron Elite,Common
+2.5,Warrior,Gemstudded Golem,Common
+2.5,Warrior,Woodcutter's Axe,Common
+2.5,Warrior,Rabid Worgen,Common
+2.5,Warrior,Dyn-o-matic,Rare
+2.5,Warrior,Brawl,Epic
+2.5,Warrior,Town Crier,Epic
+2.5,Neutral,Amani Berserker,Common
+2.5,Neutral,Hyldnir Frostrider,Common
+2.5,Neutral,Spellbreaker,Common
+2.5,Neutral,Tar Creeper,Common
+6,Neutral,Explodinator,Common
+2.5,Neutral,Dark Iron Dwarf,Common
+2.5,Neutral,Plated Beetle,Common
+2.5,Neutral,Fire Fly,Common
+2.5,Neutral,Furious Ettin,Common
+2.5,Neutral,Stonehill Defender,Rare
+2.5,Neutral,Missile Launcher,Rare
+2.5,Neutral,Gilnean Royal Guard,Rare
+2.5,Neutral,Argent Commander,Rare
+2.5,Neutral,Saronite Chain Gang,Rare
+2.5,Neutral,Worgen Abomination,Epic
+2.5,Neutral,Sea Giant,Epic
+3,Druid,Wild Growth,Basic
+3,Druid,Wrath,Common
+3,Druid,Naturalize,Common
+3,Druid,Druid of the Swarm,Rare
+3,Druid,Lesser Jasper Spellstone,Rare
+3,Druid,Shellshifter,Rare
+3,Druid,Branching Paths,Epic
+3,Druid,Living Mana,Epic
+3,Hunter,Wandering Monster,Common
+3,Hunter,Bearshark,Common
+3,Hunter,Carrion Drake,Rare
+3,Hunter,Spider Bomb,Rare
+3,Hunter,Gladiator's Longbow,Epic
+3,Mage,Flame Geyser,Common
+3,Mage,Raven Familiar,Common
+3,Mage,Sorcerer's Apprentice,Common
+3,Mage,Shimmering Tempest,Common
+3,Mage,Steam Surger,Rare
+3,Mage,Kirin Tor Mage,Rare
+3,Mage,Leyline Manipulator,Rare
+3,Mage,Arcane Keysmith,Epic
+3,Mage,Chaos Theory,Epic
+3,Paladin,Ghostly Charger,Common
+3,Priest,Power Word: Shield,Basic
+3,Priest,Shadow Word: Pain,Basic
+3,Priest,Radiant Elemental,Common
+3,Priest,Temple Enforcer,Common
+3,Priest,Tortollan Shellraiser,Common
+3,Priest,Crystalline Oracle,Rare
+3,Priest,Auchenai Soulpriest,Rare
+3,Priest,Shadow Madness,Rare
+3,Priest,Holy Water,Rare
+3,Priest,Curious Glimmerroot,Epic
+3,Priest,Twilight Acolyte,Epic
+3,Rogue,Razorpetal Lasher,Common
+3,Rogue,Cavern Shinyfinder,Common
+3,Rogue,Plague Scientist,Common
+3,Rogue,Hallucination,Common
+3,Rogue,Shadowblade,Rare
+3,Rogue,Elven Minstrel,Rare
+3,Rogue,Blightnozzle Crawler,Rare
+3,Rogue,Necrium Blade,Rare
+3,Shaman,Crushing Hand,Common
+3,shaman,Witch's Apprentice,Common
+3,Shaman,Primalfin Totem,Rare
+3,Shaman,Thunderhead,Epic
+3,Warlock,Mortal Coil,Basic
+3,Warlock,Doubling Imp,Common
+3,Warlock,Feeding Time,Rare
+3,Warlock,Chittering Tunneler,Epic
+3,Warlock,Gnomeferatu,Epic
+3,Warlock,Voidwalker,Epic
+3,Warrior,Arcanite Reaper,Basic
+3,Warrior,Execute,Basic
+3,Warrior,Woodcutter's Axe,Common
+3,Warrior,Rabid Worgen,Common
+3,Warrior,Slam,Common
+3,Warrior,Mountainfire Armor,Rare
+3,Warrior,Direhorn Hatchling,Rare
+3,Warrior,Security Rover,Rare
+3,Warrior,Town Crier,Epic
+3,Neutral,Amani Berserker,Common
+3,Neutral,Hyldnir Frostrider,Common
+3,Neutral,Spellbreaker,Common
+3,Neutral,Tar Creeper,Common
+3,Neutral,Dark Iron Dwarf,Common
+3,Neutral,Plated Beetle,Common
+3,Neutral,Fire Fly,Common
+3,Neutral,Furious Ettin,Common
+3,Neutral,Mecharoo,Common
+3,Neutral,Gilnean Royal Guard,Rare
+3,Neutral,Argent Commander,Rare
+3,Neutral,Saronite Chain Gang,Rare
+3,Neutral,Mind Control Tech,Rare
+3,Neutral,Bone Drake,Rare
+3,Neutral,Witchwood Grizzly,Rare
+3,Neutral,Phantom Militia,Rare
+3,Neutral,Giggling Inventor,Rare
+3,Neutral,Sea Giant,Epic
+3,Neutral,Bittertide Hydra,Epic
+3,Neutral,Charged Devilsaur,Epic
+3,Neutral,Mossy Horror,Epic
+3,Neutral,Nightmare Amalgam,Epic
+3,Neutral,Weaponized Pinata,Epic
+3.5,Druid,Wild Growth,Basic
+3.5,Druid,Starfire,Basic
+3.5,Druid,Wrath,Common
+3.5,Druid,Naturalize,Common
+3.5,Druid,Druid of the Swarm,Rare
+3.5,Druid,Lesser Jasper Spellstone,Rare
+3.5,Druid,Shellshifter,Rare
+3.5,Druid,Starfall,Rare
+3.5,Druid,Branching Paths,Epic
+3.5,Druid,Living Mana,Epic
+3.5,Hunter,Wandering Monster,Common
+3.5,Hunter,Bearshark,Common
+3.5,Hunter,Cave Hydra,Common
+3.5,Hunter,Carrion Drake,Rare
+3.5,Hunter,Spider Bomb,Rare
+3.5,Hunter,Gladiator's Longbow,Epic
+3.5,Mage,Coldwraith,Common
+3.5,Mage,Ghastly Conjurer,Rare
+3.5,Mage,Explosive Runes,Rare
+3.5,Mage,Chaos Theory,Epic
+3.5,Mage,Book of Specters,Epic
+3.5,Mage,Dragon's Fury,Epic
+3.5,Paladin,Potion of Heroism,Common
+3.5,Paladin,Sound the Bells!,Common
+3.5,Paladin,Equality,Rare
+3.5,Paladin,Lightfused Stegodon,Rare
+3.5,Paladin,Sword of Justice,Epic
+3.5,Priest,Holy Water,Rare
+3.5,Priest,Coffin Crasher,Rare
+3.5,Priest,Unidentified Elixir,Rare
+3.5,Rogue,Fan of Knives,Basic
+3.5,Rogue,Deadly Poison,Basic
+3.5,Rogue,Hallucination,Common
+3.5,Rogue,Bone Baron,Common
+3.5,Rogue,Elven Minstrel,Rare
+3.5,Rogue,Blightnozzle Crawler,Rare
+3.5,Rogue,Necrium Blade,Rare
+3.5,Rogue,Perdition's Blade,Rare
+3.5,shaman,Witch's Apprentice,Common
+3.5,Shaman,Stormforged Axe,Common
+3.5,Shaman,Hot Spring Guardian,Common
+3.5,Shaman,Lightning Bolt,Common
+3.5,Shaman,Unbound Elemental,Common
+3.5,shaman,Zap!,Common
+3.5,Shaman,Feral Spirit,Rare
+3.5,Shaman,Thunderhead,Epic
+3.5,Warlock,Mortal Coil,Basic
+3.5,Warlock,Soulfire,Basic
+3.5,Warlock,Doubling Imp,Common
+3.5,Warlock,Feeding Time,Rare
+3.5,Warlock,Chittering Tunneler,Epic
+3.5,Warlock,Gnomeferatu,Epic
+3.5,Warlock,Voidwalker,Epic
+3.5,Warrior,Slam,Common
+3.5,Warrior,Forge of Souls,Common
+3.5,Warrior,Warpath,Common
+3.5,Warrior,Cruel Taskmaster,Common
+3.5,Warrior,Mountainfire Armor,Rare
+3.5,Warrior,Direhorn Hatchling,Rare
+3.5,Warrior,Security Rover,Rare
+3.5,Neutral,Wild Pyromancer,Basic
+3.5,Neutral,Chillwind Yeti,Basic
+3.5,Neutral,Mecharoo,Common
+3.5,Neutral,Mad Bomber,Common
+3.5,Neutral,Dragonslayer,Common
+3.5,Neutral,Shroom Brewer,Common
+3.5,Neutral,Deathspeaker,Common
+3.5,Neutral,Eggnapper,Common
+3.5,Neutral,Nesting Roc,Common
+3.5,Neutral,Scarlet Crusader,Common
+3.5,Neutral,Tanglefur Mystic,Common
+3.5,Neutral,Mind Control Tech,Rare
+3.5,Neutral,Bone Drake,Rare
+3.5,Neutral,Witchwood Grizzly,Rare
+3.5,Neutral,Phantom Militia,Rare
+3.5,Neutral,Giggling Inventor,Rare
+3.5,Neutral,Lone Champion,Rare
+3.5,Neutral,Sunwalker,Rare
+3.5,Neutral,Twilight Drake,Rare
+3.5,Neutral,Bittertide Hydra,Epic
+3.5,Neutral,Charged Devilsaur,Epic
+3.5,Neutral,Mossy Horror,Epic
+3.5,Neutral,Nightmare Amalgam,Epic
+3.5,Neutral,Weaponized Pinata,Epic
+3.5,Neutral,Spiteful Summoner,Epic
+3.5,Neutral,Blood Knight,Epic
+4,Druid,Starfire,Basic
+4,Druid,Ironbark Protector,Basic
+4,Druid,Ironwood Golem,Common
+4,Druid,Verdant Longneck,Common
+4,Druid,Starfall,Rare
+4,Druid,Bewitched Guardian,Rare
+4,Druid,Greedy Sprite,Rare
+4,Hunter,Cave Hydra,Common
+4,Hunter,Vilebrood Skitterer,Common
+4,Hunter,Bomb Toss,Common
+4,Hunter,Secret Plan,Common
+4,Mage,Coldwraith,Common
+4,Mage,Ghastly Conjurer,Rare
+4,Mage,Explosive Runes,Rare
+4,Mage,Bonfire Elemental,Rare
+4,Mage,Book of Specters,Epic
+4,Mage,Dragon's Fury,Epic
+4,Paladin,Potion of Heroism,Common
+4,Paladin,Sound the Bells!,Common
+4,Paladin,Glow-Tron,Common
+4,Paladin,Equality,Rare
+4,Paladin,Lightfused Stegodon,Rare
+4,Paladin,Shrink Ray,Rare
+4,Paladin,Sword of Justice,Epic
+4,Priest,Thoughtsteal,Common
+4,Priest,Coffin Crasher,Rare
+4,Priest,Unidentified Elixir,Rare
+4,Priest,Omega Medic,Rare
+4,Priest,Shadow Visions,Epic
+4,Rogue,Fan of Knives,Basic
+4,Rogue,Deadly Poison,Basic
+4,Rogue,Bone Baron,Common
+4,Rogue,Perdition's Blade,Rare
+4,Shaman,Stormforged Axe,Common
+4,Shaman,Hot Spring Guardian,Common
+4,Shaman,Lightning Bolt,Common
+4,Shaman,Unbound Elemental,Common
+4,shaman,Zap!,Common
+4,Shaman,Ghost Light Angler,Common
+4,Shaman,Feral Spirit,Rare
+4,Shaman,Blazing Invocation,Rare
+4,Shaman,Storm Chaser,Rare
+4,Shaman,Omega Mind,Epic
+4,Warlock,Soulfire,Basic
+4,Warlock,Shadow Bolt,Basic
+4,Warlock,Tar Lurker,Common
+4,Warlock,Shadowflame,Rare
+4,Warlock,Doomguard,Rare
+4,Warlock,Demonologist,Rare
+4,Warlock,Deathweb Spider,Epic
+4,Warrior,Forge of Souls,Common
+4,Warrior,Warpath,Common
+4,Warrior,Cruel Taskmaster,Common
+4,Warrior,Tar Lord,Common
+4,Warrior,Rocket Boots,Common
+4,Warrior,Weapons Project,Common
+4,Warrior,Festeroot Hulk,Rare
+4,Neutral,Wild Pyromancer,Basic
+4,Neutral,Chillwind Yeti,Basic
+4,Neutral,Mad Bomber,Common
+4,Neutral,Dragonslayer,Common
+4,Neutral,Shroom Brewer,Common
+4,Neutral,Deathspeaker,Common
+4,Neutral,Eggnapper,Common
+4,Neutral,Nesting Roc,Common
+4,Neutral,Scarlet Crusader,Common
+4,Neutral,Tanglefur Mystic,Common
+4,Neutral,Walnut Sprite,Common
+4,Neutral,Electrowright,Common
+4,Neutral,Ravencaller,Common
+4,Neutral,Dire Wolf Alpha,Common
+4,Neutral,Rotten Applebaum,Common
+4,Neutral,Deranged Doctor,Common
+4,Neutral,Inspired Inventor,Common
+4,Neutral,Piloted Reaper,Common
+4,Neutral,Spring Rocket,Common
+4,Neutral,Toxicologist,Common
+4,Neutral,Wargear,Common
+4,Neutral,Lone Champion,Rare
+4,Neutral,Sunwalker,Rare
+4,Neutral,Twilight Drake,Rare
+4,Neutral,Replicating Menace,Rare
+4,Neutral,Spiteful Summoner,Epic
+4,Neutral,Blood Knight,Epic
+4,Neutral,Muck Hunter,Epic
+4,Neutral,Corridor Creeper,Epic
+4,Neutral,Augmented Elekk,Epic
+4,Neutral,Loose Specimen,Epic
+4,Neutral,E.M.P. Operative,Epic
+4.5,Druid,Ironbark Protector,Basic
+4.5,Druid,Savage Roar,Basic
+4.5,Druid,Ironwood Golem,Common
+4.5,Druid,Verdant Longneck,Common
+4.5,Druid,Bewitched Guardian,Rare
+4.5,Druid,Greedy Sprite,Rare
+4.5,Druid,Strongshell Scavenger,Rare
+4.5,Druid,Grizzled Guardian,Rare
+4.5,Druid,Wispering Woods,Epic
+4.5,Hunter,Vilebrood Skitterer,Common
+4.5,Neutral,Electrowright,Common
+4.5,Hunter,Bomb Toss,Common
+4.5,Hunter,Secret Plan,Common
+4.5,Hunter,Corpse Widow,Rare
+4.5,Mage,Mirror Entity,Common
+4.5,Mage,Bonfire Elemental,Rare
+4.5,Paladin,Light's Justice,Basic
+4.5,Paladin,Hammer of Wrath,Basic
+4.5,Paladin,Glow-Tron,Common
+4.5,Paladin,Drygulch Jailor,Common
+4.5,Paladin,Shrink Ray,Rare
+4.5,Paladin,Paragon of Light,Rare
+4.5,Priest,Thoughtsteal,Common
+4.5,Priest,Spirit Lash,Common
+4.5,Priest,Omega Medic,Rare
+4.5,Priest,Holy Fire,Rare
+4.5,Priest,Shadow Visions,Epic
+4.5,Rogue,Betrayal,Common
+4.5,Rogue,Mistwraith,Rare
+4.5,Rogue,Cursed Castaway,Rare
+4.5,Rogue,Lesser Onyx Spellstone,Rare
+4.5,Rogue,Patient Assassin,Epic
+4.5,Shaman,Bloodlust,Basic
+4.5,Shaman,Ghost Light Angler,Common
+4.5,Shaman,Earth Shock,Common
+4.5,Shaman,Blazing Invocation,Rare
+4.5,Shaman,Storm Chaser,Rare
+4.5,shaman,Earthen Might,Rare
+4.5,Shaman,Lava Burst,Rare
+4.5,Shaman,Omega Mind,Epic
+4.5,Shaman,Doomhammer,Epic
+4.5,Warlock,Shadow Bolt,Basic
+4.5,Warlock,Tar Lurker,Common
+4.5,Warlock,Shadowflame,Rare
+4.5,Warlock,Doomguard,Rare
+4.5,Warlock,Demonologist,Rare
+4.5,Warlock,Deathweb Spider,Epic
+4.5,Warrior,Tar Lord,Common
+4.5,Warrior,Rocket Boots,Common
+4.5,Warrior,Weapons Project,Common
+4.5,Warrior,Ornery Direhorn,Common
+4.5,Warrior,Festeroot Hulk,Rare
+4.5,Warrior,Molten Blade,Rare
+4.5,Warrior,Redband Wasp,Rare
+4.5,Warrior,Mortal Strike,Rare
+4.5,Neutral,Acidic Swamp Ooze,Basic
+4.5,Neutral,Walnut Sprite,Common
+4.5,Neutral,Ravencaller,Common
+4.5,Neutral,Dire Wolf Alpha,Common
+4.5,Neutral,Rotten Applebaum,Common
+4.5,Neutral,Deranged Doctor,Common
+4.5,Neutral,Inspired Inventor,Common
+4.5,Neutral,Piloted Reaper,Common
+4.5,Neutral,Spring Rocket,Common
+4.5,Neutral,Toxicologist,Common
+4.5,Neutral,Wargear,Common
+4.5,Neutral,Tuskarr Fisherman,Common
+4.5,Neutral,Cursed Disciple,Common
+4.5,Neutral,Fungalmancer,Common
+4.5,Neutral,Grim Necromancer,Common
+4.5,Neutral,Bloodsail Raider,Common
+4.5,Neutral,Violet Teacher,Common
+4.5,Neutral,Earthen Ring Farseer,Common
+4.5,Neutral,Swift Messenger,Common
+4.5,Neutral,Faerie Dragon,Common
+4.5,Neutral,Stubborn Gastropod,Common
+4.5,Neutral,Stormwind Champion,Common
+4.5,Neutral,Blackwald Pixie,Common
+4.5,Neutral,Glacial Shard,Common
+4.5,Neutral,Replicating Menace,Rare
+4.5,Neutral,Violet Wurm,Rare
+4.5,Neutral,Volcanosaur,Rare
+4.5,Neutral,Stampeding Kodo,Rare
+4.5,Neutral,Golakka Crawler,Rare
+4.5,Neutral,Void Ripper,Rare
+4.5,Neutral,Knife Juggler,Rare
+4.5,Neutral,Chief Inspector,Rare
+4.5,Neutral,Witchwood Piper,Rare
+4.5,Neutral,Muck Hunter,Epic
+4.5,Neutral,Corridor Creeper,Epic
+4.5,Neutral,Augmented Elekk,Epic
+4.5,Neutral,Loose Specimen,Epic
+4.5,Neutral,E.M.P. Operative,Epic
+5,Druid,Savage Roar,Basic
+5,Druid,Gloop Sprayer,Common
+5,Druid,Strongshell Scavenger,Rare
+5,Druid,Grizzled Guardian,Rare
+5,Druid,Nourish,Rare
+5,Druid,Dendrologist,Rare
+5,Druid,Wispering Woods,Epic
+5,Hunter,Tundra Rhino,Basic
+5,Hunter,Hunter's Mark,Basic
+5,Hunter,Scavenging Hyena,Common
+5,Hunter,Dire Frenzy,Common
+5,Hunter,Corpse Widow,Rare
+5,Hunter,Duskhaven Hunter,Rare
+5,Hunter,Abominable Bowman,Epic
+5,Hunter,Goblin Prank,Epic
+5,Mage,Mirror Entity,Common
+5,Mage,Cosmic Anomaly,Common
+5,Mage,Curio Collector,Rare
+5,Mage,Celestial Emissary,Rare
+5,Mage,Astromancer,Epic
+5,Paladin,Light's Justice,Basic
+5,Paladin,Hammer of Wrath,Basic
+5,Paladin,Drygulch Jailor,Common
+5,Paladin,Paragon of Light,Rare
+5,Paladin,Annoy-o-Module,Rare
+5,Priest,Spirit Lash,Common
+5,Priest,Squashling,Common
+5,Priest,Dead Ringer,Common
+5,Priest,Topsy Turvy,Common
+5,Priest,Holy Fire,Rare
+5,Priest,Devour Mind,Rare
+5,Priest,Extra Arms,Rare
+5,Priest,Power Word: Replicate,Epic
+5,Rogue,Betrayal,Common
+5,Rogue,Cutthroat Buccaneer,Common
+5,Rogue,Lab Recruiter,Common
+5,Rogue,Crazed Chemist,Common
+5,Rogue,Mistwraith,Rare
+5,Rogue,Cursed Castaway,Rare
+5,Rogue,Lesser Onyx Spellstone,Rare
+5,Rogue,Patient Assassin,Epic
+5,Shaman,Bloodlust,Basic
+5,Shaman,Earth Shock,Common
+5,shaman,Earthen Might,Rare
+5,Shaman,Lava Burst,Rare
+5,Shaman,Doomhammer,Epic
+5,Warlock,Witchwood Imp,Common
+5,Warlock,Fiendish Circle,Common
+5,Warlock,Drain Soul,Common
+5,Warlock,Duskbat,Common
+5,Warlock,Spirit Bomb,Common
+5,Warlock,Dark Possession,Rare
+5,Warlock,Nethersoul Buster,Rare
+5,Warlock,Omega Agent,Epic
+5,Warrior,Ornery Direhorn,Common
+5,Warrior,Eternium Rover,Common
+5,Warrior,Molten Blade,Rare
+5,Warrior,Redband Wasp,Rare
+5,Warrior,Mortal Strike,Rare
+5,Warrior,Unidentified Shield,Rare
+5,Warrior,Kobold Barbarian,Rare
+5,Warrior,Omega Assembly,Rare
+5,Neutral,Acidic Swamp Ooze,Basic
+5,Neutral,Tuskarr Fisherman,Common
+5,Neutral,Cursed Disciple,Common
+5,Neutral,Fungalmancer,Common
+5,Neutral,Grim Necromancer,Common
+5,Neutral,Bloodsail Raider,Common
+5,Neutral,Violet Teacher,Common
+5,Neutral,Earthen Ring Farseer,Common
+5,Neutral,Swift Messenger,Common
+5,Neutral,Faerie Dragon,Common
+5,Neutral,Stubborn Gastropod,Common
+5,Neutral,Stormwind Champion,Common
+5,Neutral,Blackwald Pixie,Common
+5,Neutral,Glacial Shard,Common
+5,Neutral,Pumpkin Peasant,Common
+5,Neutral,Steel Rager,Common
+5,Neutral,Cloakscale Chemist,Common
+5,Neutral,Upgradeable Framebot,Common
+5,Neutral,Coppertail Imposter,Common
+5,Neutral,Kaboom Bot,Common
+5,Neutral,Skaterbot,Common
+5,Neutral,Violet Wurm,Rare
+5,Neutral,Volcanosaur,Rare
+5,Neutral,Stampeding Kodo,Rare
+5,Neutral,Golakka Crawler,Rare
+5,Neutral,Void Ripper,Rare
+5,Neutral,Knife Juggler,Rare
+5,Neutral,Chief Inspector,Rare
+5,Neutral,Witchwood Piper,Rare
+5,Neutral,Night Prowler,Rare
+5,Neutral,Witch's Cauldron,Epic
+5,Neutral,Omega Defender,Epic
+5,Neutral,Seaforium Bomber,Epic
+5.5,Druid,Mark of the Wild,Basic
+5.5,Druid,Gloop Sprayer,Common
+5.5,Druid,Elder Longneck,Common
+5.5,Druid,Nourish,Rare
+5.5,Druid,Dendrologist,Rare
+5.5,Druid,Keeper of the Grove,Rare
+5.5,Hunter,Tundra Rhino,Basic
+5.5,Hunter,Hunter's Mark,Basic
+5.5,Hunter,Scavenging Hyena,Common
+5.5,Hunter,Dire Frenzy,Common
+5.5,Hunter,Grievous Bite,Common
+5.5,Hunter,Explosive Trap,Common
+5.5,Hunter,Duskhaven Hunter,Rare
+5.5,Hunter,Abominable Bowman,Epic
+5.5,Hunter,Goblin Prank,Epic
+5.5,Mage,Arcane Intellect,Basic
+5.5,Mage,Cosmic Anomaly,Common
+5.5,Mage,Vex Crow,Common
+5.5,Mage,Shifting Scroll,Common
+5.5,Mage,Arcane Artificer,Common
+5.5,Mage,Curio Collector,Rare
+5.5,Mage,Celestial Emissary,Rare
+5.5,Mage,Counterspell,Rare
+5.5,Mage,Lesser Ruby Spellstone,Rare
+5.5,Mage,Astromancer,Epic
+5.5,Mage,Spellbender,Epic
+5.5,Paladin,Dark Conviction,Common
+5.5,Paladin,Benevolent Djinn,Common
+5.5,Paladin,Chillblade Champion,Common
+5.5,Paladin,Annoy-o-Module,Rare
+5.5,Paladin,Arrogant Crusader,Rare
+5.5,Paladin,Avenging Wrath,Epic
+5.5,Paladin,Lay on Hands,Epic
+5.5,Paladin,Level Up!,Epic
+5.5,Priest,Mind Vision,Basic
+5.5,Priest,Squashling,Common
+5.5,Priest,Dead Ringer,Common
+5.5,Priest,Topsy Turvy,Common
+5.5,Priest,Lightspawn,Common
+5.5,Priest,Quartz Elemental,Common
+5.5,Priest,Psionic Probe,Common
+5.5,Priest,Devour Mind,Rare
+5.5,Priest,Extra Arms,Rare
+5.5,Priest,Mass Dispel,Rare
+5.5,Priest,Eternal Servitude,Rare
+5.5,Priest,Mirage Caller,Rare
+5.5,Priest,Power Word: Replicate,Epic
+5.5,Rogue,Shiv,Basic
+5.5,Rogue,Cutthroat Buccaneer,Common
+5.5,Rogue,Lab Recruiter,Common
+5.5,Rogue,Crazed Chemist,Common
+5.5,Rogue,Cold Blood,Common
+5.5,Rogue,Runeforge Haunter,Rare
+5.5,Rogue,Master of Disguise,Rare
+5.5,Shaman,Brrrloc,Common
+5.5,Shaman,Tidal Surge,Common
+5.5,Warlock,Witchwood Imp,Common
+5.5,Warlock,Fiendish Circle,Common
+5.5,Warlock,Drain Soul,Common
+5.5,Warlock,Duskbat,Common
+5.5,Warlock,Spirit Bomb,Common
+5.5,Warlock,Dark Possession,Rare
+5.5,Warlock,Nethersoul Buster,Rare
+5.5,Warlock,Possessed Lackey,Rare
+5.5,Warlock,Blood Witch,Rare
+5.5,Warlock,Omega Agent,Epic
+5.5,Warrior,Cleave,Basic
+5.5,Warrior,Heroic Strike,Basic
+5.5,Warrior,Eternium Rover,Common
+5.5,Warrior,Battle Rage,Common
+5.5,Warrior,Unidentified Shield,Rare
+5.5,Warrior,Kobold Barbarian,Rare
+5.5,Warrior,Omega Assembly,Rare
+5.5,Warrior,Upgrade!,Rare
+5.5,Warrior,Armorsmith,Rare
+5.5,Neutral,Bloodfen Raptor,Basic
+5.5,Neutral,River Crocolisk,Basic
+5.5,Neutral,Boulderfist Ogre,Basic
+5.5,Neutral,Shattered Sun Cleric,Basic
+5.5,Neutral,Sen'jin Shieldmasta,Basic
+5.5,Neutral,Pumpkin Peasant,Common
+5.5,Neutral,Steel Rager,Common
+5.5,Neutral,Cloakscale Chemist,Common
+5.5,Neutral,Upgradeable Framebot,Common
+5.5,Neutral,Coppertail Imposter,Common
+5.5,Neutral,Kaboom Bot,Common
+5.5,Neutral,Skaterbot,Common
+5.5,Neutral,Loot Hoarder,Common
+5.5,Neutral,Rockpool Hunter,Common
+5.5,Neutral,Hench-Clan Thug,Common
+5.5,Neutral,Silver Hand Knight,Common
+5.5,Neutral,Harvest Golem,Common
+5.5,Neutral,Fungal Enchanter,Common
+5.5,Neutral,Spiteful Smith,Common
+5.5,Neutral,Stranglethorn Tiger,Common
+5.5,Neutral,Frost Elemental,Common
+5.5,Neutral,Acolyte of Pain,Common
+5.5,Neutral,Green Jelly,Common
+5.5,Neutral,Argent Squire,Common
+5.5,Neutral,Raging Worgen,Common
+5.5,Neutral,Igneous Elemental,Common
+5.5,Neutral,Sunborne Val'kyr,Common
+5.5,Neutral,Corrosive Sludge,Common
+5.5,Neutral,Giant Wasp,Common
+5.5,Neutral,Sated Threshadon,Common
+5.5,Neutral,Silvermoon Guardian,Common
+5.5,Neutral,Night Prowler,Rare
+5.5,Neutral,Injured Blademaster,Rare
+5.5,Neutral,Corpse Raiser,Rare
+5.5,Neutral,Sunfury Protector,Rare
+5.5,Neutral,Scaleworm,Rare
+5.5,Neutral,Keening Banshee,Rare
+5.5,Neutral,Pint-Sized Summoner,Rare
+5.5,Neutral,Shrieking Shroom,Rare
+5.5,Neutral,Kobold Monk,Rare
+5.5,Neutral,Frozen Crusher,Rare
+5.5,Neutral,Crazed Alchemist,Rare
+5.5,Neutral,Youthful Brewmaster,Rare
+5.5,Neutral,Emperor Cobra,Rare
+5.5,Neutral,Defender of Argus,Rare
+5.5,Neutral,Witch's Cauldron,Epic
+5.5,Neutral,Omega Defender,Epic
+5.5,Neutral,Seaforium Bomber,Epic
+5.5,Neutral,Bright-Eyed Scout,Epic
+5.5,Neutral,Gentle Megasaur,Epic
+5.5,Neutral,Carnivorous Cube,Epic
+5.5,Neutral,Big Game Hunter,Epic
+5.5,Neutral,Blazecaller,Epic
+5.5,Neutral,Faceless Manipulator,Epic
+5.5,Neutral,Doomsayer,Epic
+5.5,Neutral,Splitting Festeroot,Epic
+6,Druid,Mark of the Wild,Basic
+6,Druid,Elder Longneck,Common
+6,Druid,Oaken Summons,Common
+6,Druid,Fatespinner,Epic
+6,Druid,Astral Tiger,Epic
+6,Druid,Force of Nature,Epic
+6,Druid,Ancient of Lore,Epic
+6,Druid,Dreampetal Florist,Epic
+6,Druid,Keeper of the Grove,Rare
+6,Druid,Mulchmuncher,Rare
+6,Hunter,Multi-Shot,Basic
+6,Hunter,Grievous Bite,Common
+6,Hunter,Explosive Trap,Common
+6,Hunter,Stitched Tracker,Common
+6,Hunter,Rat Trap,Epic
+6,Hunter,Goblin Necrologist,Epic
+6,Hunter,Raptor Hatchling,Rare
+6,Hunter,Terrorscale Stalker,Rare
+6,Hunter,Cybertech Chip,Rare
+6,Hunter,Fireworks Tech,Rare
+6,Mage,Arcane Intellect,Basic
+6,Mage,Vex Crow,Common
+6,Mage,Shifting Scroll,Common
+6,Mage,Arcane Artificer,Common
+6,Mage,Shooting Star,Common
+6,Mage,Spellbender,Epic
+6,Mage,Deck of Wonders,Epic
+6,Mage,Counterspell,Rare
+6,Mage,Lesser Ruby Spellstone,Rare
+6,Mage,Ice Walker,Rare
+6,Mage,Astral Rift,Rare
+6.5,Mage,Astral Rift,Rare
+6,Mage,Cinderstorm,Rare
+6,Mage,Stardust Replication,Rare
+6,Mage,Meteorologist,Rare
+6,Neutral,Bloodfen Raptor,Basic
+6,Neutral,River Crocolisk,Basic
+6,Neutral,Boulderfist Ogre,Basic
+6,Neutral,Shattered Sun Cleric,Basic
+6,Neutral,Sen'jin Shieldmasta,Basic
+6,Neutral,Frostwolf Warlord,Basic
+6,Neutral,Loot Hoarder,Common
+6,Neutral,Rockpool Hunter,Common
+6,Neutral,Hench-Clan Thug,Common
+6,Neutral,Silver Hand Knight,Common
+6,Neutral,Harvest Golem,Common
+6,Neutral,Fungal Enchanter,Common
+6,Neutral,Spiteful Smith,Common
+6,Neutral,Stranglethorn Tiger,Common
+6,Neutral,Frost Elemental,Common
+6,Neutral,Acolyte of Pain,Common
+6,Neutral,Green Jelly,Common
+6,Neutral,Argent Squire,Common
+6,Neutral,Raging Worgen,Common
+6,Neutral,Igneous Elemental,Common
+6,Neutral,Sunborne Val'kyr,Common
+6,Neutral,Corrosive Sludge,Common
+6,Neutral,Giant Wasp,Common
+6,Neutral,Sated Threshadon,Common
+6,Neutral,Silvermoon Guardian,Common
+6,Neutral,Vicious Scalehide,Common
+6,Neutral,Swamp Leech,Common
+6,Neutral,Ironbeak Owl,Common
+6,Neutral,Hoarding Dragon,Common
+6,Neutral,Cult Master,Common
+6,Neutral,Fallen Sun Cleric,Common
+6,Neutral,Necrotic Geist,Common
+6,Neutral,Marsh Drake,Common
+6,Neutral,Brainiac,Common
+6,Neutral,Brainstormer,Common
+6,Neutral,Bloodsteel Guardian,Common
+6,Neutral,Bomb-o-matic,Common
+6,Neutral,Bronze Gatekeeper,Common
+6,Neutral,Damaged Stegotron,Common
+6,Neutral,Microtech Controller,Common
+6,Neutral,Rusty Recycler,Common
+6,Neutral,Bull Dozer,Common
+6,Neutral,Bright-Eyed Scout,Epic
+6,Neutral,Gentle Megasaur,Epic
+6,Neutral,Carnivorous Cube,Epic
+6,Neutral,Big Game Hunter,Epic
+6,Neutral,Blazecaller,Epic
+6,Neutral,Faceless Manipulator,Epic
+6,Neutral,Doomsayer,Epic
+6,Neutral,Splitting Festeroot,Epic
+6,Neutral,Gluttonous Ooze,Epic
+6,Neutral,Arcane Tyrant,Epic
+6,Neutral,Voodoo Doll,Epic
+6,Neutral,Corpsetaker,Epic
+6,Neutral,Crystallizer,Epic
+6,Neutral,Holomancer,Epic
+6,Neutral,Injured Blademaster,Rare
+6,Neutral,Corpse Raiser,Rare
+6,Neutral,Sunfury Protector,Rare
+6,Neutral,Scaleworm,Rare
+6,Neutral,Keening Banshee,Rare
+6,Neutral,Pint-Sized Summoner,Rare
+6,Neutral,Shrieking Shroom,Rare
+6,Neutral,Kobold Monk,Rare
+6,Neutral,Frozen Crusher,Rare
+6,Neutral,Crazed Alchemist,Rare
+6,Neutral,Youthful Brewmaster,Rare
+6,Neutral,Emperor Cobra,Rare
+6,Neutral,Defender of Argus,Rare
+6,Neutral,Servant of Kalimos,Rare
+6,Neutral,Hungry Ettin,Rare
+6,Neutral,Shallow Gravedigger,Rare
+6,Neutral,Lifedrinker,Rare
+6,Neutral,Mechanical Whelp,Rare
+6,Neutral,Galvanizer,Rare
+6,Neutral,Spark Drill,Rare
+6,Neutral,Spark Engine,Rare
+6,Paladin,Dark Conviction,Common
+6,Paladin,Benevolent Djinn,Common
+6,Paladin,Chillblade Champion,Common
+6,Paladin,Mechano-Egg,Common
+6,Paladin,Autodefense Matrix,Common
+6,Paladin,Avenging Wrath,Epic
+6,Paladin,Lay on Hands,Epic
+6,Paladin,Level Up!,Epic
+6,Paladin,Glowstone Technician,Epic
+6,Paladin,Prismatic Lens,Epic
+6,Paladin,Arrogant Crusader,Rare
+6,Paladin,Divine Favor,Rare
+6,Paladin,Crystology,Rare
+6,Priest,Mind Vision,Basic
+6,Priest,Lightspawn,Common
+6,Priest,Quartz Elemental,Common
+6,Priest,Psionic Probe,Common
+6,Priest,Acolyte of Agony,Common
+6,Priest,Divine Hymn,Common
+6,Priest,Reckless Experimenter,Epic
+6,Priest,Mass Dispel,Rare
+6,Priest,Eternal Servitude,Rare
+6,Priest,Mirage Caller,Rare
+6,Priest,Lesser Diamond Spellstone,Rare
+6,Rogue,Shiv,Basic
+6,Rogue,Cold Blood,Common
+6,Rogue,Academic Espionage,Epic
+6,Rogue,Runeforge Haunter,Rare
+6,Rogue,Master of Disguise,Rare
+6,Rogue,Mimic Pod,Rare
+6,Rogue,Pick Pocket,Rare
+6,Shaman,Voodoo Hexxer,Basic
+6,Shaman,Brrrloc,Common
+6,Shaman,Tidal Surge,Common
+6,Shaman,Elementary Reaction,Common
+6,Shaman,Stone Sentinel,Epic
+6,Shaman,Bogshaper,Epic
+6,Shaman,Mana Tide Totem,Rare
+6,Shaman,Avalanche,Rare
+6,Shaman,Murmuring Elemental,Rare
+6,Warlock,Ravenous Pterrordax,Common
+6,Warlock,Demonfire,Common
+6,Warlock,Unwilling Sacrifice,Epic
+6,Warlock,Ratcatcher,Epic
+6,Warlock,Pit Lord,Epic
+6,Warlock,Possessed Lackey,Rare
+6,Warlock,Blood Witch,Rare
+6,Warlock,Curse of Weakness,Rare
+6,Warlock,Soul Infusion,Rare
+6,Warrior,Cleave,Basic
+6,Warrior,Heroic Strike,Basic
+6,Warrior,Shield Block,Basic
+6,Warrior,Battle Rage,Common
+6,Warrior,Drywhisker Armorer,Common
+6,Warrior,Shield Slam,Epic
+6,Warrior,Reckless Flurry,Epic
+6,Warrior,Berylium Nullifier,Epic
+6,Warrior,Upgrade!,Rare
+6,Warrior,Armorsmith,Rare
+6.5,Druid,Oaken Summons,Common
+6.5,Druid,Mulchmuncher,Rare
+6.5,Druid,Fatespinner,Epic
+6.5,Druid,Astral Tiger,Epic
+6.5,Druid,Force of Nature,Epic
+6.5,Druid,Ancient of Lore,Epic
+6.5,Druid,Dreampetal Florist,Epic
+6.5,Hunter,Multi-Shot,Basic
+6.5,Hunter,Stitched Tracker,Common
+6.5,Hunter,Raptor Hatchling,Rare
+6.5,Hunter,Terrorscale Stalker,Rare
+6.5,Hunter,Cybertech Chip,Rare
+6.5,Hunter,Fireworks Tech,Rare
+6.5,Hunter,Rat Trap,Epic
+6.5,Hunter,Goblin Necrologist,Epic
+6.5,Mage,Shooting Star,Common
+6.5,Mage,Ice Walker,Rare
+6.5,Mage,Cinderstorm,Rare
+6.5,Mage,Stardust Replication,Rare
+6.5,Mage,Meteorologist,Rare
+6.5,Mage,Deck of Wonders,Epic
+6.5,Paladin,Mechano-Egg,Common
+6.5,Paladin,Autodefense Matrix,Common
+6.5,Paladin,Divine Favor,Rare
+6.5,Paladin,Crystology,Rare
+6.5,Paladin,Glowstone Technician,Epic
+6.5,Paladin,Prismatic Lens,Epic
+6.5,Priest,Acolyte of Agony,Common
+6.5,Priest,Divine Hymn,Common
+6.5,Priest,Lesser Diamond Spellstone,Rare
+6.5,Priest,Reckless Experimenter,Epic
+6.5,Rogue,Mimic Pod,Rare
+6.5,Rogue,Pick Pocket,Rare
+6.5,Rogue,Academic Espionage,Epic
+6.5,Shaman,Voodoo Hexxer,Basic
+6.5,Shaman,Elementary Reaction,Common
+6.5,Shaman,Mana Tide Totem,Rare
+6.5,Shaman,Avalanche,Rare
+6.5,Shaman,Murmuring Elemental,Rare
+6.5,Shaman,Stone Sentinel,Epic
+6.5,Shaman,Bogshaper,Epic
+6.5,Warlock,Ravenous Pterrordax,Common
+6.5,Warlock,Demonfire,Common
+6.5,Warlock,Curse of Weakness,Rare
+6.5,Warlock,Soul Infusion,Rare
+6.5,Warlock,Unwilling Sacrifice,Epic
+6.5,Warlock,Ratcatcher,Epic
+6.5,Warlock,Pit Lord,Epic
+6.5,Warrior,Shield Block,Basic
+6.5,Warrior,Drywhisker Armorer,Common
+6.5,Warrior,Shield Slam,Epic
+6.5,Warrior,Reckless Flurry,Epic
+6.5,Warrior,Berylium Nullifier,Epic
+6.5,Neutral,Frostwolf Warlord,Basic
+6.5,Neutral,Vicious Scalehide,Common
+6.5,Neutral,Swamp Leech,Common
+6.5,Neutral,Ironbeak Owl,Common
+6.5,Neutral,Hoarding Dragon,Common
+6.5,Neutral,Cult Master,Common
+6.5,Neutral,Fallen Sun Cleric,Common
+6.5,Neutral,Necrotic Geist,Common
+6.5,Neutral,Marsh Drake,Common
+6.5,Neutral,Brainiac,Common
+6.5,Neutral,Bloodsteel Guardian,Common
+6.5,Neutral,Bomb-o-matic,Common
+6.5,Neutral,Bronze Gatekeeper,Common
+6.5,Neutral,Explodinator,Common
+6.5,Neutral,Brainstormer,Common
+6.5,Neutral,Rusty Recycler,Common
+6.5,Neutral,Damaged Stegotron,Common
+6.5,Neutral,Microtech Controller,Common
+6.5,Neutral,Bull Dozer,Common
+6.5,Neutral,Servant of Kalimos,Rare
+6.5,Neutral,Hungry Ettin,Rare
+6.5,Neutral,Shallow Gravedigger,Rare
+6.5,Neutral,Lifedrinker,Rare
+6.5,Neutral,Mechanical Whelp,Rare
+6.5,Neutral,Galvanizer,Rare
+6.5,Neutral,Spark Drill,Rare
+6.5,Neutral,Spark Engine,Rare
+6.5,Neutral,Gluttonous Ooze,Epic
+6.5,Neutral,Arcane Tyrant,Epic
+6.5,Neutral,Voodoo Doll,Epic
+6.5,Neutral,Corpsetaker,Epic
+6.5,Neutral,Crystallizer,Epic
+6.5,Neutral,Holomancer,Epic
+7,Druid,Moonfire,Basic
+7,Druid,Innervate,Basic
+7,Druid,Healing Touch,Basic
+7,Druid,Claw,Basic
+7,Druid,Barkskin,Common
+7,Druid,Ferocious Howl,Common
+7,Druid,Biology Project,Common
+7,Druid,Gnash,Common
+7,Druid,Witchwood Apple,Common
+7,Druid,Forest Guide,Rare
+7,Druid,Bite,Rare
+7,Druid,Earthen Scales,Rare
+7,Druid,Witching Hour,Rare
+7,Druid,Evolving Spores,Rare
+7,Druid,Giant Anaconda,Epic
+7,Druid,Juicy Psychmelon,Epic
+7,Druid,Webweave,Epic
+7,Hunter,Tracking,Basic
+7,Hunter,Arcane Shot,Basic
+7,Hunter,Play Dead,Common
+7,Hunter,Seeping Oozeling,Rare
+7,Hunter,Flare,Rare
+7,Hunter,Misdirection,Rare
+7,Hunter,Exploding Bloatbat,Rare
+7,Hunter,Tol'vir Warden,Rare
+7,Hunter,Toxic Arrow,Epic
+7,Hunter,Bestial Wrath,Epic
+7,Hunter,Stampede,Epic
+7,Hunter,Dinomancy,Epic
+7,Hunter,To My Side!,Epic
+7,Hunter,Toxmonger,Epic
+7,Mage,Arcane Missiles,Basic
+7,Mage,Arcane Explosion,Basic
+7,Mage,Vaporize,Basic
+7,Mage,Frost Nova,Basic
+7,Mage,Mirror Image,Basic
+7,Mage,Ice Barrier,Common
+7,Mage,Research Project,Common
+7,Mage,Breath of Sindragosa,Common
+7,Mage,Cone of Cold,Common
+7,Mage,Frozen Clone,Common
+7,Mage,Snap Freeze,Common
+7,Mage,Molten Reflection,Rare
+7,Mage,Ethereal Arcanist,Rare
+7,Mage,Mana Bind,Rare
+7,Mage,Doomed Apprentice,Rare
+7,Mage,Simulacrum,Epic
+7,Mage,Glacial Mysteries,Epic
+7,Paladin,Blessing of Might,Basic
+7,Paladin,Humility,Basic
+7,Paladin,Hand of Protection,Basic
+7,Paladin,Guardian of Kings,Basic
+7,Paladin,Holy Light,Basic
+7,Paladin,Eye for an Eye,Common
+7,Paladin,Noble Sacrifice,Common
+7,Paladin,Redemption,Common
+7,Paladin,Blessing of Wisdom,Common
+7,Paladin,Adaptation,Common
+7,Paladin,Repentance,Common
+7,Paladin,Rebuke,Common
+7,Paladin,Bellringer Sentry,Rare
+7,Paladin,Howling Commander,Rare
+7,Paladin,Holy Wrath,Rare
+7,Paladin,Lesser Pearl Spellstone,Rare
+7,Paladin,Desperate Stand,Rare
+7,Paladin,Blessed Champion,Rare
+7,Paladin,Light's Sorrow,Epic
+7,Paladin,Cathedral Gargoyle,Epic
+7,Paladin,Blackguard,Epic
+7,Paladin,Primalfin Champion,Epic
+7,Paladin,Hidden Wisdom,Epic
+7,Priest,Divine Spirit,Basic
+7,Priest,Holy Smite,Basic
+7,Priest,Binding Heal,Common
+7,Priest,Cloning Device,Common
+7,Priest,Silence,Common
+7,Priest,Circle of Healing,Common
+7,Priest,Gilded Gargoyle,Common
+7,Priest,Shadow Essence,Rare
+7,Priest,Test Subject,Rare
+7,Priest,Twilight's Call,Rare
+7,Priest,Vivid Nightmare,Epic
+7,Priest,Embrace Darkness,Epic
+7,Priest,Shadowform,Epic
+7,Priest,Mindgames,Epic
+7,Rogue,Sinister Strike,Basic
+7,Rogue,Assassin's Blade,Basic
+7,Rogue,Sprint,Basic
+7,Rogue,Leeching Poison,Common
+7,Rogue,Synthetic Haze,Common
+7,Rogue,Sudden Betrayal,Common
+7,Rogue,Razorpetal Volley,Common
+7,Rogue,Cheat Death,Common
+7,Rogue,Shadowstep,Common
+7,Rogue,Headcrack,Rare
+7,Rogue,Pogo-Hopper,Rare
+7,Rogue,Kobold Illusionist,Rare
+7,Rogue,Obsidian Shard,Rare
+7,Rogue,Roll the Bones,Rare
+7,Rogue,Vanish,Rare
+7,Rogue,Blade Flurry,Rare
+7,Rogue,Biteweed,Epic
+7,Rogue,Spectral Pillager,Epic
+7,Rogue,Spectral Cutlass,epic
+7,Rogue,Evasion,Epic
+7,Rogue,Necrium Vial,Epic
+7,Rogue,Doomerang,Epic
+7,Rogue,Preparation,Epic
+7,Rogue,WANTED!,Epic
+7,Shaman,Frost Shock,Basic
+7,Shaman,Rockbiter Weapon,Basic
+7,Shaman,Drakkari Defender,Common
+7,Shaman,Healing Rain,Common
+7,Shaman,Ice Fishing,Common
+7,Shaman,Air Elemental,Common
+7,Shaman,Forked Lightning,Common
+7,Shaman,Kobold Hermit,Common
+7,Shaman,Beakered Lightning,Common
+7,Shaman,Lesser Sapphire Spellstone,Rare
+7,Shaman,Windfury,Rare
+7,Shaman,Fire Plume Harbinger,Rare
+7,Shaman,Ice Breaker,Rare
+7,Shaman,Primal Talismans,Rare
+7,Shaman,Eureka!,Rare
+7,Shaman,Ancestral Spirit,Rare
+7,Shaman,Far Sight,Epic
+7,Shaman,Spirit Echo,Epic
+7,Shaman,Windshear Stormcaller,Epic
+7,shaman,Totem Cruncher,Epic
+7,Shaman,Snowfury Giant,Epic
+7,Shaman,Cryostasis,Epic
+7,Warlock,Corruption,Basic
+7,Warlock,Drain Life,Basic
+7,Warlock,Blood Imp,Common
+7,Warlock,Dark Pact,Common
+7,Warlock,Lakkari Felhound,Common
+7,Warlock,Summoning Portal,Common
+7,Warlock,Sanguine Reveler,Common
+7,Warlock,Howlfiend,Common
+7,Warlock,Demonic Project,Common
+7,Warlock,Cruel Dinomancer,Rare
+7,Warlock,Corrupting Mist,Rare
+7,Warlock,Felguard,Rare
+7,Warlock,Void Terror,Epic
+7,Warlock,Bloodbloom,Epic
+7,Warlock,Cataclysm,Epic
+7,Warlock,Treachery,Epic
+7,Warlock,Ectomancy,Epic
+7,Warrior,Animated Berserker,Common
+7,Warrior,Iron Hide,Common
+7,Warrior,Whirlwind,Common
+7,Warrior,Inner Rage,Common
+7,Warrior,Cornered Sentry,Rare
+7,Warrior,Death Revenant,Rare
+7,Warrior,Gather Your Party,Rare
+7,Warrior,Commanding Shout,Rare
+7,Warrior,Deadly Arsenal,Epic
+7,Warrior,Bladed Gauntlet,Epic
+7,Warrior,Sudden Genesis,Epic
+7,Warrior,Bring It On!,Epic
+7,Warrior,Explore Un'Goro,Epic
+7,Warrior,Dead Man's Hand,Epic
+7,Warrior,Val'kyr Soulclaimer,Epic
+7,Neutral,Murloc Raider,Basic
+7,Neutral,Nightblade,Basic
+7,Neutral,Wax Elemental,Basic
+7,Neutral,Lord of the Arena,Basic
+7,Neutral,Booty Bay Bodyguard,Basic
+7,Neutral,Goldshire Footman,Basic
+7,Neutral,Raid Leader,Basic
+7,Neutral,Frostwolf Grunt,Basic
+7,Neutral,Magma Rager,Basic
+7,Neutral,Dalaran Mage,Basic
+7,Neutral,Windfury Harpy,Basic
+7,Neutral,Stonetusk Boar,Basic
+7,Neutral,Grimscale Oracle,Basic
+7,Neutral,Core Hound,Basic
+7,Neutral,Silverback Patriarch,Basic
+7,Neutral,Novice Engineer,Basic
+7,Neutral,Murloc Tidehunter,Basic
+7,Neutral,Elven Archer,Basic
+7,Neutral,Gnomish Inventor,Basic
+7,Neutral,Darkscale Healer,Basic
+7,Neutral,Ogre Magi,Basic
+7,Neutral,Wolfrider,Basic
+7,Neutral,Dragonling Mechanic,Basic
+7,Neutral,Gurubashi Berserker,Basic
+7,Neutral,Razorfen Hunter,Basic
+7,Neutral,Stormwind Knight,Basic
+7,Neutral,Stormpike Commando,Basic
+7,Neutral,Oasis Snapjaw,Basic
+7,Neutral,Volatile Elemental,Basic
+7,Neutral,Ironforge Rifleman,Basic
+7,Neutral,Archmage,Basic
+7,Neutral,Ironfur Grizzly,Basic
+7,Neutral,Reckless Rocketeer,Basic
+7,Neutral,Kobold Geomancer,Basic
+7,Neutral,Necromechanic,Common
+7,Neutral,Bloodworm,Common
+7,Neutral,Cauldron Elemental,Common
+7,Neutral,Night Howler,Common
+7,Neutral,Wyrmguard,Common
+7,Neutral,Primalfin Lookout,Common
+7,Neutral,Wretched Tiller,Common
+7,Neutral,Priestess of Elune,Common
+7,Neutral,Swamp Dragon Egg,Common
+7,Neutral,Silver Vanguard,Common
+7,Neutral,Sneaky Devil,Common
+7,Neutral,Thrallmar Farseer,Common
+7,Neutral,Tauren Warrior,Common
+7,Neutral,Sabretooth Stalker,Common
+7,Neutral,Clockwork Automaton,Common
+7,Neutral,Mogu'shan Warden,Common
+7,Neutral,Leper Gnome,Common
+7,Neutral,Skelemancer,Common
+7,Neutral,Wicked Skeleton,Common
+7,Neutral,Spellweaver,Common
+7,Neutral,Deadscale Knight,Common
+7,Neutral,Shieldbearer,Common
+7,Neutral,Young Dragonhawk,Common
+7,Neutral,Snowflipper Penguin,Common
+7,Neutral,Lost Spirit,Common
+7,Neutral,Unpowered Steambot,Common
+7,Neutral,Darkmire Moonkin,Common
+7,Neutral,Demolitionist,Common
+7,Neutral,Faithful Lumi,Common
+7,Neutral,Whirliglider,Common
+7,Neutral,Goblin Bomb,Common
+7,Neutral,Guild Recruiter,Common
+7,Neutral,Young Priestess,Common
+7,Neutral,Grave Shambler,Common
+7,Neutral,Dread Corsair,Common
+7,Neutral,Thunder Lizard,Common
+7,Neutral,Stegodon,Common
+7,Neutral,Acherus Veteran,Common
+7,Neutral,Sewer Crawler,Common
+7,Neutral,Fen Creeper,Common
+7,Neutral,Kobold Apprentice,Common
+7,Neutral,Southsea Deckhand,Common
+7,Neutral,Worgen Infiltrator,Common
+7,Neutral,Bluegill Warrior,Common
+7,Neutral,Dire Mole,Common
+7,Neutral,Giant Mastodon,Common
+7,Neutral,Flesheating Ghoul,Common
+7,Neutral,Jungle Panther,Common
+7,Neutral,Sleepy Dragon,Common
+7,Neutral,Stormwatcher,Common
+7,Neutral,Ravasaur Runt,Common
+7,Neutral,Trogg Gloomeater,Common
+7,Neutral,Ancient Brewmaster,Common
+7,Neutral,Toothy Chest,Common
+7,Neutral,Abusive Sergeant,Common
+7,Neutral,Emerald Reaver,Common
+7,Neutral,Tainted Zealot,Common
+7,Neutral,Pterrordax Hatchling,Common
+7,Neutral,Boisterous Bard,Common
+7,Neutral,Spellshifter,Common
+7,Neutral,Felsoul Inquisitor,Common
+7,Neutral,Bloodsail Corsair,Rare
+7,Neutral,Ancient Mage,Rare
+7,Neutral,War Golem,Rare
+7,Neutral,Gravelsnout Knight,Rare
+7,Neutral,Ticking Abomination,Rare
+7,Neutral,Furbolg Mossbinder,Rare
+7,Neutral,Devilsaur Egg,Rare
+7,Neutral,Coldlight Seer,Rare
+7,Neutral,Arcane Golem,Rare
+7,Neutral,Gadgetzan Auctioneer,Rare
+7,Neutral,Alarm-o-Bot,Rare
+7,Neutral,Angry Chicken,Rare
+7,Neutral,Unpowered Mauler,Rare
+7,Neutral,Mindbreaker,Rare
+7,Neutral,Imp Master,Rare
+7,Neutral,Mana Wraith,Rare
+7,Neutral,Happy Ghoul,Rare
+7,Neutral,Tol'vir Stoneshaper,Rare
+7,Neutral,Feral Gibberer,Rare
+7,Neutral,Voodoo Doctor,Rare
+7,Neutral,Venture Co. Mercenary,Rare
+7,Neutral,Murloc Tidecaller,Rare
+7,Neutral,Demolisher,Rare
+7,Neutral,Lightwarden,Rare
+7,Neutral,Venomancer,Rare
+7,Neutral,Phantom Freebooter,Rare
+7,Neutral,Master Swordsmith,Rare
+7,Neutral,Questing Adventurer,Rare
+7,Neutral,Ebon Dragonsmith,Rare
+7,Neutral,Ravenholdt Assassin,Rare
+7,Neutral,Vryghoul,Rare
+7,Neutral,Scorp-o-matic,Rare
+7,Neutral,Secretkeeper,Rare
+7,Neutral,Mana Addict,Rare
+7,Neutral,Abomination,Rare
+7,Neutral,Mad Hatter,Rare
+7,Neutral,Furnacefire Colossus,Epic
+7,Neutral,Tomb Lurker,Epic
+7,Neutral,Tortollan Primalist,Epic
+7,Neutral,Ultrasaur,Epic
+7,Neutral,Rattling Rascal,Epic
+7,Neutral,Skulking Geist,Epic
+7,Neutral,Mountain Giant,Epic
+7,Neutral,Drakkari Enchanter,Epic
+7,Neutral,Baleful Banker,Epic
+7,Neutral,Deathaxe Punisher,Epic
+7,Neutral,Shimmering Courser,Epic
+7,Neutral,Wisp,Epic
+7,Neutral,Dragonhatcher,Epic
+7,Neutral,Meat Wagon,Epic
+7,Neutral,Star Aligner,Epic
+7,Neutral,Murloc Warleader,Epic
+7,Neutral,Sandbinder,Epic
+7,Neutral,Southsea Captain,Epic
+7,Neutral,Rummaging Kobold,Epic
+7,Neutral,Emerald Hive Queen,Epic
+7,Neutral,Hungry Crab,Epic
+7,Neutral,Grand Archivist,Epic
+7,Neutral,Nerubian Unraveler,Epic
+Legend 1,Hunter,Kathrena Winterwisp,Legendary
+Legend 1,Hunter,King Krush,Legendary
+Legend 1,Mage,Pyros,Legendary
+Legend 1,Mage,Archmage Antonidas,Legendary
+Legend 1,Mage,Sindragosa,Legendary
+Legend 1,Mage,Toki Time Tinker,Legendary
+Legend 1,Paladin,Sunkeeper Tarim,Legendary
+Legend 1,Paladin,Tirion Fordring,Legendary
+Legend 1,Paladin,Val'anyr,Legendary
+Legend 1,Rogue,Face Collector,Legendary
+Legend 1,Rogue,Myra Rotspring,Legendary
+Legend 1,Shaman,Kalimos Primal Lord,Legendary
+Legend 1,shaman,Shudderwock,Legendary
+Legend 1,Shaman,Grumble Worldshaker,Legendary
+Legend 1,Warlock,Lord Godfrey,Legendary
+Legend 1,Warlock,Lord Jaraxxus,Legendary
+Legend 1,Warlock,Rin the First Disciple,Legendary
+Legend 1,Warrior,Grommash Hellscream,Legendary
+Legend 1,Neutral,The Lich King,Legendary
+Legend 1,Neutral,Deathwing,Legendary
+Legend 1,Neutral,Ysera,Legendary
+Legend 1,Neutral,Cairne Bloodhoof,Legendary
+Legend 1,Neutral,Elise the Trailblazer,Legendary
+Legend 1,Neutral,Zilliax,Legendary
+Legend 1.5,Druid,Cenarius,Legendary
+Legend 1.5,Druid,Ixlid Fungal Lord,Legendary
+Legend 1.5,Hunter,King Krush,Legendary
+Legend 1.5,Hunter,Houndmaster Shaw,Legendary
+Legend 1.5,Hunter,Professor Putricide,Legendary
+Legend 1.5,Mage,Sindragosa,Legendary
+Legend 1.5,Mage,Toki Time Tinker,Legendary
+Legend 1.5,Mage,Archmage Arugal,Legendary
+Legend 1.5,Paladin,Prince Liam,Legendary
+Legend 1.5,Paladin,Lynessa Sunsorrow,Legendary
+Legend 1.5,Priest,Lyra the Sunshard,Legendary
+Legend 1.5,Priest,Chameleos,Legendary
+Legend 1.5,Rogue,Face Collector,Legendary
+Legend 1.5,Rogue,Myra Rotspring,Legendary
+Legend 1.5,Rogue,Edwin VanCleef,Legendary
+Legend 1.5,Rogue,Sonya Shadowdancer,Legendary
+Legend 1.5,shaman,Shudderwock,Legendary
+Legend 1.5,Shaman,Grumble Worldshaker,Legendary
+Legend 1.5,Shaman,Al'Akir the Windlord,Legendary
+Legend 1.5,Warlock,Lord Jaraxxus,Legendary
+Legend 1.5,Warlock,Rin the First Disciple,Legendary
+Legend 1.5,Warlock,Glinda Crowskin,Legendary
+Legend 1.5,Warrior,Darius Crowley,Legendary
+Legend 1.5,Warrior,Woecleaver,Legendary
+Legend 1.5,Warrior,King Mosh,Legendary
+Legend 1.5,Warrior,Geosculptor Yip,Legendary
+Legend 1.5,Neutral,Cairne Bloodhoof,Legendary
+Legend 1.5,Neutral,Elise the Trailblazer,Legendary
+Legend 1.5,Neutral,Zilliax,Legendary
+Legend 1.5,Neutral,The Black Knight,Legendary
+Legend 1.5,Neutral,Baron Geddon,Legendary
+Legend 1.5,Neutral,Onyxia,Legendary
+Legend 1.5,Neutral,Gruul,Legendary
+Legend 1.5,Neutral,Alexstrasza,Legendary
+Legend 1.5,Neutral,Arfus,Legendary
+Legend 2,Druid,Cenarius,Legendary
+Legend 2,Druid,Ixlid Fungal Lord,Legendary
+Legend 2,Druid,Splintergraft,Legendary
+Legend 2,Druid,Tyrantus,Legendary
+Legend 2,Druid,Hadronox,Legendary
+Legend 2,Hunter,Houndmaster Shaw,Legendary
+Legend 2,Hunter,Professor Putricide,Legendary
+Legend 2,Hunter,Swamp King Dred,Legendary
+Legend 2,Hunter,Emeriss,Legendary
+Legend 1.5,Mage,Toki Time-Tinker,Legendary
+Legend 2,Mage,Toki Time-Tinker,Legendary
+Legend 2,Mage,Archmage Arugal,Legendary
+Legend 2,Mage,Stargazer Luna,Legendary
+Legend 2,Paladin,Prince Liam,Legendary
+Legend 2,Paladin,Lynessa Sunsorrow,Legendary
+Legend 2,Paladin,Crystalsmith Kangor,Legendary
+Legend 2,Priest,Lyra the Sunshard,Legendary
+Legend 2,Priest,Chameleos,Legendary
+Legend 2,Priest,Zerek Master Cloner,Legendary
+Legend 2.5,Priest,Zerek Master Cloner,Legendary
+Legend 2,Priest,Prophet Velen,Legendary
+Legend 2,Priest,Lady in White,Legendary
+Legend 2,Priest,Archbishop Benedictus,Legendary
+Legend 2,Priest,Clone Master Zerek,Legendary
+Legend 2,Priest,Zerek's Cloning Gallery,Legendary
+Legend 2,Rogue,Edwin VanCleef,Legendary
+Legend 2,Rogue,Sonya Shadowdancer,Legendary
+Legend 2,Shaman,Al'Akir the Windlord,Legendary
+Legend 2,Shaman,The Runespear,Legendary
+Legend 2,Shaman,The Storm Bringer,Legendary
+Legend 2,Shaman,Electra Stormsurge,Legendary
+Legend 2,Warlock,Glinda Crowskin,Legendary
+Legend 2,Warrior,Darius Crowley,Legendary
+Legend 2,Warrior,Woecleaver,Legendary
+Legend 2,Warrior,King Mosh,Legendary
+Legend 2,Warrior,Geosculptor Yip,Legendary
+Legend 2,Warrior,Rotface,Legendary
+Legend 2,Warrior,The Boomship,Legendary
+Legend 2,Neutral,The Black Knight,Legendary
+Legend 2,Neutral,Baron Geddon,Legendary
+Legend 2,Neutral,Onyxia,Legendary
+Legend 2,Neutral,Gruul,Legendary
+Legend 2,Neutral,Alexstrasza,Legendary
+Legend 2,Neutral,Arfus,Legendary
+Legend 2,Neutral,Harrison Jones,Legendary
+Legend 2,Neutral,Illidan Stormrage,Legendary
+Legend 2,Neutral,Hogger,Legendary
+Legend 2,Neutral,Malygos,Legendary
+Legend 2,Neutral,Leeroy Jenkins,Legendary
+Legend 2,Neutral,Marin the Fox,Legendary
+Legend 2.5,Druid,Splintergraft,Legendary
+Legend 2.5,Druid,Tyrantus,Legendary
+Legend 2.5,Druid,Hadronox,Legendary
+Legend 2.5,Druid,Twig of the World Tree,Legendary
+Legend 2.5,Hunter,Swamp King Dred,Legendary
+Legend 2.5,Hunter,Emeriss,Legendary
+Legend 2.5,Mage,Stargazer Luna,Legendary
+Legend 2.5,Mage,Dragoncaller Alanna,Legendary
+Legend 2.5,Mage,Aluneth,Legendary
+Legend 2.5,Paladin,Crystalsmith Kangor,Legendary
+Legend 2.5,Paladin,The Glass Knight,Legendary
+Legend 2.5,Paladin,Bolvar Fireblood,Legendary
+Legend 2.5,Priest,Prophet Velen,Legendary
+Legend 2.5,Priest,Lady in White,Legendary
+Legend 2.5,Priest,Archbishop Benedictus,Legendary
+Legend 2.5,Priest,Clone Master Zerek,Legendary
+Legend 2.5,Priest,Zerek's Cloning Gallery,Legendary
+Legend 2.5,Rogue,Myra's Unstable Element,Legendary
+Legend 2.5,Rogue,Sherazin Corpse Flower,Legendary
+Legend 2.5,Rogue,Lilian Voss,Legendary
+Legend 2.5,Shaman,The Runespear,Legendary
+Legend 2.5,Shaman,The Storm Bringer,Legendary
+Legend 2.5,Shaman,Electra Stormsurge,Legendary
+Legend 2.5,Warlock,The Soularium,Legendary
+Legend 2.5,Warlock,Dr. Morrigan,Legendary
+Legend 2.5,Warlock,Clutchmother Zavas,Legendary
+Legend 2.5,Warlock,Skull of the Man'ari,Legendary
+Legend 2.5,Warrior,Rotface,Legendary
+Legend 2.5,Warrior,The Boomship,Legendary
+Legend 2.5,Neutral,Harrison Jones,Legendary
+Legend 2.5,Neutral,Illidan Stormrage,Legendary
+Legend 2.5,Neutral,Hogger,Legendary
+Legend 2.5,Neutral,Malygos,Legendary
+Legend 2.5,Neutral,Leeroy Jenkins,Legendary
+Legend 2.5,Neutral,Marin the Fox,Legendary
+Legend 2.5,Neutral,Master Oakheart,Legendary
+Legend 2.5,Neutral,Countess Ashmore,Legendary
+Legend 2.5,Neutral,Bloodmage Thalnos,Legendary
+Legend 2.5,Neutral,Captain Greenskin,Legendary
+Legend 2.5,Neutral,Tinkmaster Overspark,Legendary
+Legend 2.5,Neutral,Prince Keleseth,Legendary
+Legend 2.5,Neutral,Hemet Jungle Hunter,Legendary
+Legend 2.5,Neutral,Zola the Gorgon,Legendary
+Legend 2.5,Neutral,King Mukla,Legendary
+Legend 2.5,Neutral,Prince Valanar,Legendary
+Legend 2.5,Neutral,Spiritsinger Umbra,Legendary
+Legend 2.5,Neutral,Prince Taldaram,Legendary
+Legend 2.5,Neutral,Nat Pagle,Legendary
+Legend 2.5,Neutral,Nozdormu,Legendary
+Legend 3,Druid,Twig of the World Tree,Legendary
+Legend 3,Druid,Duskfallen Aviana,Legendary
+Legend 3,Druid,Floop's Glorious Gloop,Legendary
+Legend 3,Druid,Flobbidinous Floop,Legendary
+Legend 3,Hunter,Rhok'delar,Legendary
+Legend 3,Hunter,Boommaster Flark,Legendary
+Legend 3,Hunter,Flark's Boom-Zooka,Legendary
+Legend 3,Mage,Dragoncaller Alanna,Legendary
+Legend 3,Mage,Aluneth,Legendary
+Legend 3,Mage,Luna's Pocket Galaxy,Legendary
+Legend 3,Paladin,The Glass Knight,Legendary
+Legend 3,Paladin,Bolvar Fireblood,Legendary
+Legend 3,Paladin,Kangor's Endless Army,Legendary
+Legend 3,Priest,Temporus,Legendary
+Legend 3,Priest,Dragon Soul,Legendary
+Legend 3,Rogue,Myra's Unstable Element,Legendary
+Legend 3,Rogue,Sherazin Corpse Flower,Legendary
+Legend 3,Rogue,Lilian Voss,Legendary
+Legend 3,Rogue,Kingsbane,Legendary
+Legend 3,Rogue,Tess Greymane,Legendary
+Legend 3,Shaman,Moorabi,Legendary
+Legend 3,Warlock,The Soularium,Legendary
+Legend 3,Warlock,Dr. Morrigan,Legendary
+Legend 3,Warlock,Clutchmother Zavas,Legendary
+Legend 3,Warlock,Skull of the Man'ari,Legendary
+Legend 3,Warlock,Blood-Queen Lana'thel,Legendary
+Legend 3,Warrior,Blackhowl Gunspire,Legendary
+Legend 3,Neutral,Master Oakheart,Legendary
+Legend 3,Neutral,Countess Ashmore,Legendary
+Legend 3,Neutral,Bloodmage Thalnos,Legendary
+Legend 3,Neutral,Captain Greenskin,Legendary
+Legend 3,Neutral,Tinkmaster Overspark,Legendary
+Legend 3,Neutral,Prince Keleseth,Legendary
+Legend 3,Neutral,Hemet Jungle Hunter,Legendary
+Legend 3,Neutral,Zola the Gorgon,Legendary
+Legend 3,Neutral,King Mukla,Legendary
+Legend 3,Neutral,Prince Valanar,Legendary
+Legend 3,Neutral,Spiritsinger Umbra,Legendary
+Legend 3,Neutral,Prince Taldaram,Legendary
+Legend 3,Neutral,Nat Pagle,Legendary
+Legend 3,Neutral,Nozdormu,Legendary
+Legend 3,Neutral,The Beast,Legendary
+Legend 3,Neutral,Lorewalker Cho,Legendary
+Legend 3,Neutral,Azalina Soulthief,Legendary
+Legend 3,Neutral,Millhouse Manastorm,Legendary
+Legend 3,Neutral,The Voraxx,Legendary
+Legend 3,Neutral,Ozruk,Legendary
+Legend 3,Neutral,Dollmaster Dorian,Legendary
+Legend 3,Neutral,King Togwaggle,Legendary
+Legend 3,Neutral,The Darkness,Legendary
+Legend 3,Neutral,Subject 9,Legendary
+Legend 3,Neutral,Harbinger Celestia,Legendary
+Legend 3,Neutral,Mecha'thun,Legendary
